@@ -11,7 +11,7 @@
         <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
             <div class="mb-12 p-4 md:w-1/2">
                 <div class="rounded-md shadow-md overflow-hidden">
-                    <img width="w-full" src="../../../public/dist/img/web-1.jpg" alt="">
+                    <img width="w-full" src="/dist/img/web-1.jpg" alt="">
                 </div>
                 <h3 class="font-semibold text-dark text-xl mt-5 mb-3">
                     Admin Web Dashboard
@@ -21,7 +21,7 @@
 
             <div class="mb-12 p-4 md:w-1/2">
                 <div class="rounded-md shadow-md overflow-hidden">
-                    <img width="w-full" src="../../../public/dist/img/web-1.jpg" alt="">
+                    <img width="w-full" src="/dist/img/web-1.jpg" alt="">
                 </div>
                 <h3 class="font-semibold text-dark text-xl mt-5 mb-3">
                     Aplikasi CRM
@@ -31,7 +31,7 @@
 
             <div class="mb-12 p-4 md:w-1/2">
                 <div class="rounded-md shadow-md overflow-hidden">
-                    <img width="w-full" src="../../../public/dist/img/web-1.jpg" alt="">
+                    <img width="w-full" src="/dist/img/web-1.jpg" alt="">
                 </div>
                 <h3 class="font-semibold text-dark text-xl mt-5 mb-3">
                     Website Portal
@@ -41,7 +41,7 @@
 
             <div class="mb-12 p-4 md:w-1/2">
                 <div class="rounded-md shadow-md overflow-hidden">
-                    <img width="w-full" src="../../../public/dist/img/web-1.jpg" alt="">
+                    <img width="w-full" src="/dist/img/web-1.jpg" alt="">
                 </div>
                 <h3 class="font-semibold text-dark text-xl mt-5 mb-3">
                     Aplikasi CRUD Vue Js
