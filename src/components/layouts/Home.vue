@@ -17,7 +17,7 @@
 
             <div class="w-full self-end px-4 lg:w-1/2">
                 <div class="mt-10 lg:mt-9 lg:right-0 relative">
-                    <img src="/dist/img/logo.png" class="max-w-full mx-auto" alt="">
+                    <img src="/img/logo.png" class="max-w-full mx-auto" alt="">
                 </div>
             </div>
         </div>

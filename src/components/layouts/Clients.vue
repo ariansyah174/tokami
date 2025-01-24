@@ -11,16 +11,16 @@
         <div class="w-full px-4">
             <div class="flex flex-wrap items-center justify-center">
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:opacity-100 hover:grayscale-0">
-                    <img width="w-full" src="/dist/img/google.svg" alt="Google">
+                    <img width="w-full" src="/img/google.svg" alt="Google">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:opacity-100 hover:grayscale-0">
-                    <img width="w-full" src="/dist/img/google.svg" alt="Google">
+                    <img width="w-full" src="/img/google.svg" alt="Google">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:opacity-100 hover:grayscale-0">
-                    <img width="w-full" src="/dist/img/google.svg" alt="Google">
+                    <img width="w-full" src="/img/google.svg" alt="Google">
                 </a>
                 <a href="#" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition duration-500 hover:opacity-100 hover:grayscale-0">
-                    <img width="w-full" src="/dist/img/google.svg" alt="Google">
+                    <img width="w-full" src="/img/google.svg" alt="Google">
                 </a>
             </div>
         </div>
