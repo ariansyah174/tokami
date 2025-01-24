@@ -8,7 +8,7 @@ import Beranda from "../views/BerandaView.vue";
 
 const routes = [
   {
-    path: "/",
+    path: "/tokami",
     name: "beranda",
     component: Beranda,
   },

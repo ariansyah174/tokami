@@ -7,7 +7,7 @@
         <div class="flex items-center justify-between relative h-11">
             <div class="px-4">
                 <a href="#home" class="font-bold text-lg text-primary block">
-                    TOKAMI
+                    TOKO ALMI
                 </a>
             </div>
             <div class="flex items-center px-4">
